@@ -1,0 +1,49 @@
+body{
+    background-image: url('/imag/y.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header{
+    color:#FCFCFC;
+    background-color: #FEA82F;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 100%;
+    position: fixed;
+}
+.a{
+    padding-top: 50px;
+    
+}
+h1,h2{
+    color: #FCFCFC;
+}
+.box{
+    background-color: #FEA82F;
+    width: 22%;
+   padding-bottom: 30px;
+    margin-left: 120px;
+    display: inline-block;
+    margin-top: 50px;
+
+}
+.o{
+   
+    padding-top: 30px;
+}
+footer{
+    background-color: #FEA82F;
+    padding-bottom: 20px;
+}
+.pp{
+    
+    padding: 30px;
+
+}
+
+.mh{
+    padding-top: 170px
+}
